@@ -1,0 +1,7 @@
+C:\Jack\Учеба\ЧМ\L2\SLAE\bin\Debug\SLAE.exe.config
+C:\Jack\Учеба\ЧМ\L2\SLAE\bin\Debug\SLAE.exe
+C:\Jack\Учеба\ЧМ\L2\SLAE\bin\Debug\SLAE.pdb
+C:\Jack\Учеба\ЧМ\L2\SLAE\obj\Debug\Solving SLAE.csproj.AssemblyReference.cache
+C:\Jack\Учеба\ЧМ\L2\SLAE\obj\Debug\Solving SLAE.csproj.CoreCompileInputs.cache
+C:\Jack\Учеба\ЧМ\L2\SLAE\obj\Debug\SLAE.exe
+C:\Jack\Учеба\ЧМ\L2\SLAE\obj\Debug\SLAE.pdb

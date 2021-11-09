@@ -1,0 +1,7 @@
+C:\Jack\Учеба\ЧМ\L2\L2\bin\Debug\L2.exe.config
+C:\Jack\Учеба\ЧМ\L2\L2\bin\Debug\L2.exe
+C:\Jack\Учеба\ЧМ\L2\L2\bin\Debug\L2.pdb
+C:\Jack\Учеба\ЧМ\L2\L2\obj\Debug\L2.csproj.AssemblyReference.cache
+C:\Jack\Учеба\ЧМ\L2\L2\obj\Debug\L2.csproj.CoreCompileInputs.cache
+C:\Jack\Учеба\ЧМ\L2\L2\obj\Debug\L2.exe
+C:\Jack\Учеба\ЧМ\L2\L2\obj\Debug\L2.pdb
